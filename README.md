@@ -1,2 +1,2 @@
 # haskell-mooc-solutions
-My solutions to haskell.mooc.fi mooc course
+My solutions to https://haskell.mooc.fi mooc course
